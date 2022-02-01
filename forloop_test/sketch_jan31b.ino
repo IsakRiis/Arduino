@@ -1,3 +1,7 @@
+/*
+*
+* "Beskrivelse om programmet"
+*/
 
 const int motor = 6; //PWM --> base of Tip122, collector of Tip122
 
