@@ -1,3 +1,4 @@
+
 const int motor = 6; //PWM --> base of Tip122, collector of Tip122
 
 void setup(){
@@ -16,3 +17,6 @@ Serial.begin(9600);
 void loop() {
   
 }
+
+
+//test code

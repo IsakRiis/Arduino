@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "forloop_test\\sketch_jan31b.ino"
+}
